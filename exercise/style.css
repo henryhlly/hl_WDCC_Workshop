@@ -4,6 +4,22 @@
     border: 1px solid black;
 }
 
+body {
+    margin: 0px;
+}
+
+.contact-card {
+    display: flex;
+}
+
+.contact-card img {
+    
+}
+
+.friends-filter {
+    text-align: center;
+}
+
 .left {
     width: 280px;
 }
@@ -12,9 +28,7 @@
     width: 620px;
 }
 
-body {
-    margin: 0px;
-}
+
 
 .main {
     width: 900px;
