@@ -3,3 +3,22 @@
 * {
     border: 1px solid black;
 }
+
+.left {
+    width: 280px;
+}
+
+.right {
+    width: 620px;
+}
+
+body {
+    margin: 0px;
+}
+
+.main {
+    width: 900px;
+    margin: auto;
+    display: flex;
+    background-color: pink; 
+}
